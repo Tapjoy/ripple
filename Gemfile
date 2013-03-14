@@ -1,3 +1,6 @@
+
+gem 'activemodel', '~> 3.2.1'
+
 source :rubygems
 
 gemspec
